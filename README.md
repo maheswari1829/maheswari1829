@@ -4,7 +4,7 @@
 
 ### 🌐 Connect with Me
 [LinkedIn](https://www.linkedin.com/in/bhavani-maheswari-chavali-735574376)
-[Hashnode]([https://hashnode.com/@Bhavanimaheswari]
+[Hashnode](https://hashnode.com/@Bhavanimaheswari)
 
 ### 🏙️ My 3D Contribution Graph
 ![3D Contribution Graph](./profile-3d-contrib/profile-green.svg)
