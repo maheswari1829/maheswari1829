@@ -10,8 +10,6 @@
 ![3D Contribution Graph](./profile-3d-contrib/profile-green.svg)
 ### 🏙️ My GitHub Contributions
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=maheswari1829&theme=react-dark&hide_border=true)
-### 🏙️ My GitHub Contributions
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=maheswari1829&theme=react-dark&hide_border=true)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=maheswari1829&theme=radical)](https://git.io/streak-stats)
 
